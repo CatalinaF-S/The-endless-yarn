@@ -16,5 +16,5 @@ The subject of the one-page website is about the projects that I have knitted ğŸ
  - ğŸ§¶ About me
 
 
-Live version: [The Endless Yarn Website]<[https://www.example.com](https://catalinaf-s.github.io/The-endless-yarn/)https://catalinaf-s.github.io/The-endless-yarn/> 
+**Live version:** [The Endless Yarn Website]([https://www.example.com](https://catalinaf-s.github.io/The-endless-yarn/)https://catalinaf-s.github.io/The-endless-yarn/) 
 
