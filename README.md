@@ -18,3 +18,10 @@ The subject of the one-page website is about the projects that I have knitted ðŸ
 
 **Live version:** [The Endless Yarn Website](https://catalinaf-s.github.io/The-endless-yarn/)
 
+### Desktop view
+![The Endless Yarn Website - Desktop view ](https://github.com/CatalinaF-S/The-endless-yarn/assets/113904911/31b23fa5-a532-453d-8783-59c7d3c244f9)
+
+### Mobile view
+![The Endless Yarn Website - Mobile view](https://github.com/CatalinaF-S/The-endless-yarn/assets/113904911/e3a79321-d984-49b8-ac5b-993cd888455b)
+
+
